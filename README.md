@@ -23,7 +23,7 @@ This is a Flask-based Library Management System API that allows CRUD operations 
 
 1. Clone the Repository:
    ```bash
-   git clone 
+   git clone https://github.com/abhigyanpatek/library-management.git
    cd library-management
    ```
 
